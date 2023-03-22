@@ -1,2 +1,2 @@
 # Covid19Tracker
-Covid 19 Tracker based on Spring MVP
+<img src='https://github.com/mad-skull/Tippy/blob/main/Screenshot.png' />
